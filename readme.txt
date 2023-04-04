@@ -1,1 +1,1 @@
-https://NickZRS.github.io/calc_angular0404/
+https://nickzrs.github.io/calc_angular0404/
