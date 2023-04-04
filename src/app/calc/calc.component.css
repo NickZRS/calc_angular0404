@@ -1,0 +1,19 @@
+form{
+  padding: 50px 15px 15px 15px;
+  background-color: rgb(10, 22, 92);
+  width: 500px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+button.btns{
+  margin-left: 15px;
+
+}
+h1#titulo{
+  color: white;
+}
+input{
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
